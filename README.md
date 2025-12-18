@@ -285,39 +285,22 @@ http://localhost:8501
 ## 📁 Project Structure
 ```
 vicharshaktim/
+├── .streamlit/
+│   └── config.toml           # Streamlit configuration
 ├── backend/
-│   ├── app.py                 # Flask application entry point
-│   ├── gis_agent.py          # Mistral AI agent for GIS operations
+│   ├── __pycache__/
+│   ├── app.py                # Main Streamlit application
 │   ├── gee_utils.py          # Google Earth Engine utilities
-│   ├── processing/           # Data processing modules
-│   │   ├── raster.py         # Raster data processing
-│   │   ├── vector.py         # Vector data processing
-│   │   └── analysis.py       # Spatial analysis functions
-│   ├── models/               # AI model configurations
-│   ├── config.py             # Configuration management
-│   └── requirements.txt
-├── frontend/
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   │   ├── MapViewer.js
-│   │   │   ├── QueryInput.js
-│   │   │   └── Configuration.js
-│   │   ├── services/         # API services
-│   │   ├── utils/            # Helper functions
-│   │   └── App.js
-│   ├── public/
-│   └── package.json
-├── data/                      # Temporary data storage
-│   ├── raw/                  # Raw downloaded data
-│   ├── processed/            # Processed datasets
-│   └── cache/                # Cached results
-├── outputs/                   # Generated maps and reports
-│   ├── maps/
-│   └── reports/
+│   ├── requirements.txt      # Python dependencies
+│   └── .env                  # Environment variables (not in repo)
+├── frontend/                 # Frontend files (if applicable)
 ├── screenshots/              # Application screenshots
-├── docs/                     # Documentation
-├── tests/                    # Unit and integration tests
-├── .env.example             # Environment variables template
+│   ├── workflow.png
+│   ├── flood_map.png
+│   ├── elevation_map.png
+│   ├── earth_engine.png
+│   ├── landcover_map.png
+│   └── urban_map.png
 ├── .gitignore
 ├── LICENSE
 └── README.md
