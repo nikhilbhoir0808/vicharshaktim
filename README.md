@@ -61,7 +61,7 @@ The assistant understands your query and automatically breaks it down into actio
 ---
 
 #### 🌱 Land Cover & Vegetation Analysis
-<img src="landcover_map.png" alt="Land Cover Map" width="700"/>
+<img src="land_cover.png" alt="Land Cover Map" width="700"/>
 
 *Advanced land cover classification showing vegetation, water bodies, and urban areas*
 
