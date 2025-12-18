@@ -29,7 +29,7 @@ Simply ask questions like *"Show me flood risk areas in Mumbai"* and watch as th
 ### AI-Powered Workflow Generation
 The assistant understands your query and automatically breaks it down into actionable steps:
 
-<img src="screenshots/workflow.png" alt="AI Workflow" width="800"/>
+<img src="workflow.png" alt="AI Workflow" width="800"/>
 
 *The AI assistant analyzing context and creating a multi-step geospatial workflow*
 
@@ -40,35 +40,35 @@ The assistant understands your query and automatically breaks it down into actio
 <div align="center">
 
 #### 🌊 Flood Risk Analysis Map
-<img src="screenshots/flood_map.png" alt="Flood Risk Map" width="700"/>
+<img src="flood_map.png" alt="Flood Risk Map" width="700"/>
 
 *High-resolution flood risk assessment showing vulnerable zones in red and safe areas in green*
 
 ---
 
 #### 🗻 Elevation & Terrain Analysis
-<img src="screenshots/elevation_map.png" alt="Elevation Map" width="700"/>
+<img src="elevation_map.png" alt="Elevation Map" width="700"/>
 
 *Detailed elevation mapping with topographical features and terrain analysis*
 
 ---
 
 #### 🌍 Comprehensive Earth Engine Results
-<img src="screenshots/earth_engine.png" alt="Earth Engine Results" width="700"/>
+<img src="earth_engine.png" alt="Earth Engine Results" width="700"/>
 
 *Satellite imagery processed through Google Earth Engine API*
 
 ---
 
 #### 🌱 Land Cover & Vegetation Analysis
-<img src="screenshots/landcover_map.png" alt="Land Cover Map" width="700"/>
+<img src="landcover_map.png" alt="Land Cover Map" width="700"/>
 
 *Advanced land cover classification showing vegetation, water bodies, and urban areas*
 
 ---
 
 #### 🏘️ Infrastructure & Urban Mapping
-<img src="screenshots/urban_map.png" alt="Urban Map" width="700"/>
+<img src="urban_map.png" alt="Urban Map" width="700"/>
 
 *Detailed infrastructure mapping with roads, buildings, and administrative boundaries*
 
@@ -507,6 +507,12 @@ of this software and associated documentation files...
 - GitHub: [@nikhilbhoir0808](https://github.com/nikhilbhoir0808)
 - LinkedIn: [Nikhil Bhoir](https://linkedin.com/in/nikhilbhoir)
 - Email: nikhilbhoir0808@gmail.com
+  
+**Vishal Mishra**
+- Email: vishalmishra214@gmail.com
+  
+**Vinayak Shinde**
+- Email: vs8879785320@gmail.com
 
 ---
 
